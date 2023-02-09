@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-- I'm a Certified Cardano Developer Professional [Certificate](https://www.credly.com/badges/8481646e-c53d-4ca8-ac3e-09f1ec2cdc78/public_url)
-- I'm a Certified Cardano Developer Associate [Certificate](https://www.credly.com/badges/895b9391-4e7d-4227-aa5f-4df625a3539f/public_url)
-- 🔭 I’m currently working building smartcontracts on Cardano
+- ✅ I'm a Certified Cardano Developer Professional [Certificate](https://www.credly.com/badges/8481646e-c53d-4ca8-ac3e-09f1ec2cdc78/public_url)
+- ✅ I'm a Certified Cardano Developer Associate [Certificate](https://www.credly.com/badges/895b9391-4e7d-4227-aa5f-4df625a3539f/public_url)
+- 📖 I'm currently working to get my Cardano Solution Architect Certificate
+- 🔭 I’m currently building dapps for the Cardano ecosystem
 - 📫 How to reach me: jona.ca@outlook.com
 
 
