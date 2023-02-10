@@ -15,6 +15,7 @@ I'm always open to new opportunities and collaborations 🤝
 - 📫 How to reach me: jona.ca@outlook.com
 - ✅ Cardano Developer Professional [Certificate](https://www.credly.com/badges/8481646e-c53d-4ca8-ac3e-09f1ec2cdc78/public_url)
 - ✅ Cardano Developer Associate [Certificate](https://www.credly.com/badges/895b9391-4e7d-4227-aa5f-4df625a3539f/public_url)
+- ✅ Blockchain: Foundations and Use Cases [Certificate](https://coursera.org/share/357f5605cc37c58a89a2d1086d439621)
 
 
 
