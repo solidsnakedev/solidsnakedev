@@ -1,4 +1,4 @@
-👨‍💻 Co-founder & CTO of Anastasia Labs
+👨‍💻 Founder & CTO of Anastasia Labs
 
 Jonathan is a highly skilled Smart Contract Architect with over 6 years of blockchain experience.
 
