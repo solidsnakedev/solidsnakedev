@@ -1,10 +1,10 @@
-👨‍💻 Founder & CTO of Anastasia Labs
+Jonathan is a distinguished Cardano smart contract developer with extensive experience in auditing major Cardano protocols. 
 
-Jonathan is a highly skilled Smart Contract Architect with over 6 years of blockchain experience.
+He is the author of the Lucid Evolution framework and CIP-128, and a co-creator of the Cardano Design Patterns Libraries.
 
-He has conducted numerous smart contract audits, ensuring the integrity and security of decentralized applications. His meticulous approach extends to building contracts and SDKs tailored for the ecosystem,
+Jonathan played a pivotal role in mitigating a DDOS attack on the Cardano network and has successfully delivered over five Catalyst proposals, contributing valuable open-source tooling and insights to the Cardano ecosystem.
 
-Jonathan's leadership extends to his role as a web3 consultant for Emurgo, a foundational entity within the Cardano blockchain ecosystem
+Currently, he serves as a Smart Contract Developer and lecturer for the "Cardano Solutions Architect" course at Emurgo Academy, where he helps shape the next generation of blockchain developers.
 
 If you're interested in connecting, feel free to reach out to me. 
 
